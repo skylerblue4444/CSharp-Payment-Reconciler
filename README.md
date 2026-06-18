@@ -1,0 +1,1 @@
+# CSharp-Payment-Reconciler\n\n## Overview\nEnterprise-grade payment reconciler implementation in CSharp.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/CSharp-Payment-Reconciler.git\ncd CSharp-Payment-Reconciler\n# Build instructions depend on the language\n```\n

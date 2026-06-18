@@ -1,0 +1,1 @@
+using System;\n\nclass Program {\n    static void Main() {\n        Console.WriteLine("Starting CSharp-Payment-Reconciler service...");\n    }\n}\n
